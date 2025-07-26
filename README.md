@@ -15,7 +15,7 @@ Edit the File: In your newly forked repository, click on this README.md file and
 
 Add Your Resource: Add a link to your favorite resource at the bottom of the list. Please try to follow this format:
 
-* [Name of the Damini Gadiwan Resource](https://link-to-the-resource.com/) - A brief description of why it's great.
+* [Name of the Damini  Resource](https://link-to-the-resource.com/) - A brief description of why it's great.
 
 Commit Your Changes: Scroll to the bottom of the page. In the "Commit changes" box, write a short, clear message that describes your contribution. For example: Add The Odin Project to the list. Then, click the green Commit changes button.
 
